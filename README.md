@@ -1,6 +1,9 @@
 ### 설치 apk 경로
 https://github.com/Kusitms-NumberOne/Android/tree/develop/apk
 
+### PlayStore 링크
+https://play.google.com/store/apps/details?id=com.daepiro.numberoneproject
+
 # 🌟 서비스명
 
 ![메인 이미지](https://github.com/Kusitms-NumberOne/.github/blob/main/profile/image/main_image.png)
